@@ -7,4 +7,4 @@ theme = 'hugo-theme-stack'
 # path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
 [params]
-#favicon = "favicon.ico" # Path to favicon file
+favicon = "/favicon.ico" # Path to favicon file
